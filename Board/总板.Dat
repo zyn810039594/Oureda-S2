@@ -1,0 +1,14 @@
+﻿Field=#~Integer~#~50|Field=Comment~String~Comment~100|Field=Description~String~Description~100|Field=Designator~String~Designator~100|Field=Footprint~String~Footprint~100|Field=LibRef~String~LibRef~100|Field=Quantity~Integer~Quantity~100|ReportField=Currency~<none>|ReportField=ProductionQuantity~1|ReportField=ProjectFileName~总板.PrjPCB|ReportField=ProjectFullPath~F:\Emb\OurEDA-S2\Board\总板.PrjPCB|ReportField=Title~Bill of Materials For Project [总板.PrjPCB] (No PCB Document Selected)|ReportField=ReportTime~9:58:34|ReportField=ReportDate~2020/1/3 星期五|ReportField=ReportDateTime~2020/1/3 星期五 9:58:34|ReportField=OutputName~Bill of Materials|ReportField=OutputType~BOM_PartType|ReportField=GeneratorName~BOM|ReportField=GeneratorDescription~Bill of Materials|ReportField=VariantName~None|ReportField=TotalQuantity~14|ReportField=TotalActualPrice~0|ReportField=TotalTargetPrice~0|ReportField=VersionControl_RevNumber~|ReportField=VersionControl_ProjFolderRevNumber~8b079ba5e4d7454f50c9fa6c0d6c73778ef721ae|ReportField=Address1~|ReportField=Address2~|ReportField=Address3~|ReportField=Address4~|ReportField=Application_BuildNumber~|ReportField=ApprovedBy~|ReportField=Author~|ReportField=CheckedBy~|ReportField=CompanyName~|ReportField=CurrentDate~2020/1/3 星期五|ReportField=CurrentTime~9:58:26|ReportField=Date~|ReportField=DocumentFullPathAndName~F:\Emb\OurEDA-S2\Board\总板.SchDoc|ReportField=DocumentName~总板.SchDoc|ReportField=DocumentNumber~|ReportField=DrawnBy~|ReportField=Engineer~|ReportField=ImagePath~|ReportField=ModifiedDate~2020/1/3 星期五|ReportField=Organization~|ReportField=ProjectName~总板.PrjPCB|ReportField=Revision~|ReportField=Rule~|ReportField=SheetNumber~|ReportField=SheetTotal~|ReportField=Time~|ReportField=Title~|ReportField=DataSourceFileName~总板.PrjPCB|ReportField=DataSourceFullPath~F:\Emb\OurEDA-S2\Board\总板.PrjPCB|ReportField=PCBConfigurationName~Sources|ReportField=Item~|ReportField=ItemRevision~|ReportField=ItemAndRevision~|ReportField=ItemRevisionBase~|ReportField=ItemRevisionLevel1~|ReportField=ItemRevisionLevel2~|ReportField=ItemRevisionLevel1AndBase~|ReportField=ItemRevisionLevel2AndLevel1~
+1|HDR-1X10|10P接插件|JP1|KF128-5.08-10P|Header 10|1
+2|FK407M3模块||M0|FK407M3模块|FK407M3模块|1
+3|运动PWM|Header, 8-Pin|P1|HDR1X8|Header 8|1
+4|叠加板|Header, 12-Pin|P2|HDR1X12|Header 12|1
+5|漏水传感器|Header, 3-Pin|P3|HDR1X3|Header 3|1
+6|水深传感器|Header, 4-Pin|P4|HDR1X4|Header 4|1
+7|TTL转485|Header, 4-Pin|P5|HDR1X4|Header 4|1
+8|扩展口1|Header, 6-Pin, Dual row|P6|HDR2X6|Header 6X2|1
+9|扩展口2|Header, 6-Pin, Dual row|P7|HDR2X6|Header 6X2|1
+10|九轴板1|Header, 7-Pin|P9|HDR1X7|Header 7|1
+11|九轴板2|Header, 7-Pin|P10|HDR1X7|Header 7|1
+12|Res1|Resistor|R1, R3|AXIAL-0.3|Res1|2
+13|Res2|Resistor|R2|AXIAL-0.3|Res1|1

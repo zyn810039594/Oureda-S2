@@ -1,0 +1,11 @@
+Removed Pin From Net: NetName=5V Pin=P5-1
+Removed Pin From Net: NetName=GND Pin=P5-4
+Change component parameters: Designator = "JP1"; Footprint = "KF128-5.08-10P"; UniqueID = "\TBSYBXSV"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "BOM名称"; Value = "10P接插件"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=P5-1
+Added Pin To Net: NetName=5V Pin=P5-4
+Added Member To Class: ClassName=总板 Member=Component M0 FK407M3模块
+Added Room: Name=总板

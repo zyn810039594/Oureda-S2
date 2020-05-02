@@ -823,6 +823,10 @@ void StartDefaultTask(void const * argument)
     
     
     
+    
+
+  /* init code for RT_Thread */
+  MX_RT_Thread_Init();
 
   /* USER CODE BEGIN 5 */
   /* Infinite loop */
